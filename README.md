@@ -4,7 +4,7 @@ is a multitask application that can label Images ,explore and analyse data ,pred
 # Requirement
 
  
- +1
- +2
- +3
+ *1
+ *2
+ *3
  
