@@ -3,7 +3,7 @@ is a multitask application that can label Images ,explore and analyse data ,pred
 
 # Requirement
 
- cha cha cha .
+ the libraries below are the essential requirements to run the app successfully :
  
 * altair==4.2.0
 * appdirs==1.4.4
