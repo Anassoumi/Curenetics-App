@@ -5,8 +5,8 @@ is a multitask application that can label Images ,explore and analyse data ,pred
 
  cha cha cha .
  
-*altair==4.2.0
-*appdirs==1.4.4
+* altair==4.2.0
+* appdirs==1.4.4
 *astor==0.8.1
 *bokeh==2.4.3
 *bro==0.1
