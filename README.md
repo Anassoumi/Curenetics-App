@@ -4,6 +4,8 @@ is a multitask application that can label Images ,explore and analyse data ,pred
 # Requirement
 
  
-*1
-*1
-*1
+ +
+ 
++*1
++*1
++*1
